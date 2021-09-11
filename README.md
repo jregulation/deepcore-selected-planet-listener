@@ -3,6 +3,7 @@
 ## About
 
 This repository contains the `selected-planet-listener` plugin used in Empire at War Expanded.
+You must have [DeepCore](https://github.com/SvenMarcus/deepcore-standalone) installed for this to work.
 
 ## Generating the required planet selection story events
 
