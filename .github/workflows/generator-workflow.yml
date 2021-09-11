@@ -1,0 +1,39 @@
+
+name: Generate XML Planet Selection Events
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main, develop, feature/*, release/* ]
+    types: [opened, synchronize, reopened]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        python: [3.9]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python }}
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f python/requirements.txt ]; then pip install -r python/requirements.txt; fi
+
+    - name: Generate event xml file
+      run: python python/main.py
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: PlanetSelectionEvents.xml
+        path: PlanetSelectionEvents.xml
