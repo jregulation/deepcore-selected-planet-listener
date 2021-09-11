@@ -1,8 +1,6 @@
 import os
 from xml.etree import ElementTree as et
 
-from rich import print
-
 
 def get_planet_data(element: et.Element):
     return {
