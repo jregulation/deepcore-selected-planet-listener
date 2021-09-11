@@ -62,3 +62,30 @@ If you have a compatible Python version installed you can also perform the neces
       }
    }
    ```
+
+## Usage
+
+To listen to planet selection in other plugins add the `selected-planet-listener` plugin to its dependencies in the `init.lua` file.
+Attach your other plugin as an observer to the event.
+```lua
+-- EXAMPLE PLUGIN
+return {
+   target = PluginTargets.always(),
+   dependencies = {"selected-planet-listener"},
+   init = function(self, ctx, selected_planet_listener)
+      local my_plugin = {
+         update = function(self)
+            -- ...
+         end,
+         
+         on_selected_planet_changed = function(self, planet)
+            -- ...
+         end
+      }
+      
+      selected_planet_listener:attach_listener(my_plugin.on_selected_planet_changed, my_plugin)
+      
+      return my_plugin
+   end
+}
+```
