@@ -33,7 +33,7 @@ jobs:
       run: python python/main.py
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: PlanetSelectionEvents.xml
         path: PlanetSelectionEvents.xml
