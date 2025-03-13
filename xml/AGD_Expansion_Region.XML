@@ -1,0 +1,1323 @@
+<?xml version="1.0"?>
+<Planets>
+
+	<Planet Name="AllanteenSix_CW">
+		<Variant_Of_Existing_Type>Urban_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ALLANTEEN</Text_ID>
+		<Galactic_Model_Name>W_planet_Urban01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Urban01.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Galactic_Position>574.0, -524.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Max_Space_Base>5</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_ALLANTEEN_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_ALLANTEEN_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_ALLANTEEN_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_ALLANTEEN_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_ALLANTEEN_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_ALLANTEEN_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_ALLANTEEN_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_ALLANTEEN_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_ALLANTEEN_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_ALLANTEEN_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_HUMAN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Aridus_CW">
+		<Variant_Of_Existing_Type>Desert_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ARIDUS</Text_ID>
+		<Galactic_Model_Name>W_planet_bonadan_low.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_bonadan_low.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Terrain>Desert</Terrain>
+		<Galactic_Position>657.0, -518.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>1</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_ARIDUS_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_ARIDUS_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_ARIDUS_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_ARIDUS_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_ARIDUS_INFO_ADV</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_ARIDUS_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_ARIDUS_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_ARIDUS_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_ARIDUS_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_ARIDUS_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_ARIDUS.dds</Native_Icon_Name>
+	</Planet>
+
+	<Planet Name="Arkinnea_CW"> 
+		<Variant_Of_Existing_Type>Forest_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ARKINNEA</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
+		<Galactic_Position>741.0, -201.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>2</Max_Space_Base>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_ARKINNEA_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_ARKINNEA_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_ARKINNEA_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_ARKINNEA_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_ARKINNEA_ENCYC_</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_ARKINNEA_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_ARKINNEA_INFO_HIS_</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_ARKINNEA_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_ARKINNEA_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_ARKINNEA_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+   		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_improved_atat_reactors.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Asturias_CW">
+		<Variant_Of_Existing_Type>Urban_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ASTURIAS</Text_ID>
+		<Galactic_Model_Name>W_planet_Urban01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Urban01.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Galactic_Position>104.0, -859.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_ASTURIAS_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_ASTURIAS_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_ASTURIAS_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_ASTURIAS_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_ASTURIAS_INFO_ADV</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_ASTURIAS_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_ASTURIAS_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_ASTURIAS_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_ASTURIAS_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_ASTURIAS_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+	
+	<Planet Name="Attahox_CW">
+		<Variant_Of_Existing_Type>Desert_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ATTAHOX</Text_ID>
+ 		<Galactic_Model_Name>W_planet_bonadan_low.alo</Galactic_Model_Name>
+    	<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    	<GUI_Model_Name>W_planet_Urban01.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Galactic_Position>837.0, -334.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_ATTAHOX_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_ATTAHOX_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_ATTAHOX_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_ATTAHOX_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_ATTAHOX_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_ATTAHOX_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_ATTAHOX_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_ATTAHOX_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_ATTAHOX_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_ATTAHOX_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+		<Abilities SubObjectList="Yes">
+			<Galaxy_Wide_Upgrade_Ability Name="Attahox_Salvage_Bonus">
+			<Space_Upgrade_Type> Attahox_Planetary_Advantage </Space_Upgrade_Type>
+			</Galaxy_Wide_Upgrade_Ability>
+		</Abilities>
+	</Planet>
+
+	<Planet Name="Axion_CW">
+		<Variant_Of_Existing_Type>Desert_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_AXION</Text_ID>
+		<Galactic_Model_Name>W_planet_bonadan_low.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_bonadan_low.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Terrain>Desert</Terrain>
+		<Galactic_Position>763.0, -229.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>1</Special_Structures_Space>
+		<Max_Space_Base>4</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_AXION_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_AXION_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_AXION_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_AXION_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_AXION_INFO_ADV</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_AXION_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_AXION_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_AXION_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_AXION_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_AXION_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_AXION.dds</Native_Icon_Name>
+	</Planet>
+
+	<Planet Name="Bogoa_CW">
+		<Variant_Of_Existing_Type>Desert_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_BOGOA</Text_ID>
+		<Galactic_Model_Name>W_planet_bonadan_low.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_bonadan_low.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Terrain>Desert</Terrain>
+		<Galactic_Position>526.0, -631.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>1</Special_Structures_Space>
+		<Max_Space_Base>2</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_BOGOA_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_BOGOA_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_BOGOA_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_BOGOA_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_BOGOA_INFO_ADV</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_BOGOA_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_BOGOA_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_BOGOA_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_BOGOA_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_BOGOA_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+	</Planet>
+
+	<Planet Name="Cartao_CW">
+		<Variant_Of_Existing_Type>Temperate_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_CARTAO</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    	<Galactic_Position>646.0, 170.0, 10.0</Galactic_Position>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Special_Structures_Land>4</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_CARTAO_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_CARTAO_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_CARTAO_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_CARTAO_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_CARTAO_ENCYC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_CARTAO_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_CARTAO_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_CARTAO_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_CARTAO_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_CARTAO_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_HUMAN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Cularin_CW"> 
+		<Variant_Of_Existing_Type>Forest_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_CULARIN</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
+		<Galactic_Position>693.0, -564.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_CULARIN_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_CULARIN_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_CULARIN_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_CULARIN_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_CULARIN_ENCYC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_CULARIN_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_CULARIN_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_CULARIN_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_CULARIN_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_CULARIN_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+   		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_improved_atat_reactors.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_CULARIN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Dinlo_CW"> 
+		<Variant_Of_Existing_Type>Forest_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_DINLO</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
+		<Galactic_Position>743.0, -637.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_DINLO_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_DINLO_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_DINLO_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_DINLO_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_DINLO_ENCYC_</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_DINLO_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_DINLO_INFO_HIS_</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_DINLO_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_DINLO_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_DINLO_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+   		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_improved_atat_reactors.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Dorin_CW">
+		<Variant_Of_Existing_Type>SpaceOnly_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>8</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_DORIN</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_bonadan_low.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name />
+		<GUI_Model_Name>W_planet_bonadan_low.alo</GUI_Model_Name>
+		<Terrain>Urban</Terrain>
+		<Galactic_Position>-282.0, 270.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>0</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>4</Max_Space_Base>
+		<Land_Tactical_Map />
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_DORIN_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_DORIN_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_DORIN_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_DORIN_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_DORIN_INFO_ADV</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_DORIN_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_DORIN_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_DORIN_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_DORIN_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_DORIN_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_DORIN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>3</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Emberlene_CW"> 
+		<Variant_Of_Existing_Type>Forest_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_EMBERLENE</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
+		<Galactic_Position>837.0, -388.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>4</Max_Space_Base>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_EMBERLENE_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_EMBERLENE_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_EMBERLENE_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_EMBERLENE_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_EMBERLENE_ENCYC_</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_EMBERLENE_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_EMBERLENE_INFO_HIS_</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_EMBERLENE_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_EMBERLENE_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_EMBERLENE_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+   		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_improved_atat_reactors.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Garia_CW"> 
+		<Variant_Of_Existing_Type>Forest_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_GARIA</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
+		<Galactic_Position>682.0, -610.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_GARIA_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_GARIA_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_GARIA_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_GARIA_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_GARIA_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_GARIA_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_GARIA_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_GARIA_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_GARIA_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_GARIA_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_black_market_influences.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Gyndine_CW"> 
+		<Variant_Of_Existing_Type>Forest_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_GYNDINE</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
+		<Galactic_Position>697.0, -334.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>5</Max_Space_Base>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_GYNDINE_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_GYNDINE_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_GYNDINE_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_GYNDINE_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_GYNDINE_ENCYC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_GYNDINE_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_GYNDINE_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_GYNDINE_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_GYNDINE_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_GYNDINE_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_HUMAN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Iktotch_CW">
+		<Variant_Of_Existing_Type>Desert_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_IKTOTCH</Text_ID>
+		<Galactic_Model_Name>W_planet_bonadan_low.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_bonadan_low.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Terrain>Desert</Terrain>
+		<Galactic_Position>623.0, -512.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>1</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_IKTOTCH_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_IKTOTCH_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_IKTOTCH_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_IKTOTCH_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_IKTOTCH_INFO_ADV</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_IKTOTCH_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_IKTOTCH_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_IKTOTCH_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_IKTOTCH_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_IKTOTCH_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_IKTOTCH.dds</Native_Icon_Name>
+	</Planet>
+
+	<Planet Name="Kerkoidia_CW">
+		<Variant_Of_Existing_Type>Temperate_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_KERKOIDIA</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    	<Galactic_Position>262.0, -811.0, 10.0</Galactic_Position>
+		<Max_Space_Base>2</Max_Space_Base>
+		<Special_Structures_Land>4</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+ 		<Describe_Population>TEXT_PLANET_KERKOIDIA_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_KERKOIDIA_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_KERKOIDIA_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_KERKOIDIA_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_KERKOIDIA_ENCYC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_KERKOIDIA_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_KERKOIDIA_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_KERKOIDIA_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_KERKOIDIA_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_KERKOIDIA_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_KERKOIDIA.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Kinyen_CW">
+		<Variant_Of_Existing_Type>Temperate_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_KINYEN</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    	<Galactic_Position>4.0, -805.0, 10.0</Galactic_Position>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Special_Structures_Land>4</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_KINYEN_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_KINYEN_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_KINYEN_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_KINYEN_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_KINYEN_ENCYC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_KINYEN_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_KINYEN_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_KINYEN_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_KINYEN_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_KINYEN_ENCYC</Encyclopedia_Text>
+   		<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_improved_atat_reactors.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_KINYEN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Kiros_CW"> 
+		<Variant_Of_Existing_Type>Forest_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_KIROS</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
+		<Galactic_Position>147.0, 299.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>2</Max_Space_Base>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_KIROS_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_KIROS_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_KIROS_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_KIROS_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_KIROS_ENCYC_</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_KIROS_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_KIROS_INFO_HIS_</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_KIROS_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_KIROS_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_KIROS_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+   		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_improved_atat_reactors.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="LlonNebulae_CW">
+		<Variant_Of_Existing_Type>SpaceOnly_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>8</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_LLON</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Asteroids.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name />
+		<GUI_Model_Name>W_planet_Asteroids.alo</GUI_Model_Name>
+		<Terrain>Urban</Terrain>
+		<Galactic_Position>-102.0, -745.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>0</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Land_Tactical_Map />
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_LLON_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_LLON_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_LLON_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_LLON_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_LLON_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_LLON_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_LLON_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_LLON_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_LLON_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_LLON_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>3</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="MikasterIII_CW">
+		<Variant_Of_Existing_Type>Desert_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_MIKASTERIII</Text_ID>
+ 		<Galactic_Model_Name>W_planet_bonadan_low.alo</Galactic_Model_Name>
+    	<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    	<GUI_Model_Name>W_planet_Urban01.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Galactic_Position>199.0, -716.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_MIKASTERIII_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_MIKASTERIII_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_MIKASTERIII_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_MIKASTERIII_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_MIKASTERIII_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_MIKASTERIII_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_MIKASTERIII_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_MIKASTERIII_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_MIKASTERIII_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_MIKASTERIII_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Milagro_CW">
+		<Variant_Of_Existing_Type>Temperate_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_MILAGRO</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    	<Galactic_Position>647.0, -584.0, 10.0</Galactic_Position>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Special_Structures_Land>4</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_MILAGRO_INFO_POP</Describe_Population>
+   		<Describe_Wildlife>TEXT_PLANET_MILAGRO_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_MILAGRO_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_MILAGRO_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_MILAGRO_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_MILAGRO_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_MILAGRO_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_MILAGRO_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_MILAGRO_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_MILAGRO_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_HUMAN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Mimban_CW"> 
+		<Variant_Of_Existing_Type>Swamp_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_MIMBAN</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
+		<Galactic_Position>763.0, -302.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_MIMBAN_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_MIMBAN_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_MIMBAN_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_MIMBAN_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_MIMBAN_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_MIMBAN_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_MIMBAN_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_MIMBAN_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_MIMBAN_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_MIMBAN_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_black_market_influences.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_HUMAN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Nessem_CW">
+		<Variant_Of_Existing_Type>Urban_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_NESSEM</Text_ID>
+		<Galactic_Model_Name>W_planet_Urban01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Urban01.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Galactic_Position>205.0, 299.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Max_Space_Base>5</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_NESSEM_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_NESSEM_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_NESSEM_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_NESSEM_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_NESSEM_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_NESSEM_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_NESSEM_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_NESSEM_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_NESSEM_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_NESSEM_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_HUMAN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Nivek_CW">
+		<Variant_Of_Existing_Type>Volcanic_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>3</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_NIVEK</Text_ID>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Volcanic01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Volcanic01.alo</GUI_Model_Name>
+		<Galactic_Position>621.0, -637.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>3</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Land_Tactical_Map> Sarapin.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_NIVEK_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_NIVEK_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_NIVEK_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_NIVEK_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_NIVEK_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_NIVEK_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_NIVEK_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_NIVEK_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description> TEXT_PLANET_NIVEK_ENCYC </Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_NIVEK_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_fire.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_ASH</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_ASH</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_NIVEK.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>	
+	</Planet>
+
+	<Planet Name="Noctralis_CW"> 
+		<Variant_Of_Existing_Type>Forest_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_NOCTRALIS</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
+		<Galactic_Position>123.0, 275.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>2</Max_Space_Base>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_NOCTRALIS_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_NOCTRALIS_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_NOCTRALIS_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_NOCTRALIS_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_NOCTRALIS_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_NOCTRALIS_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_NOCTRALIS_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_NOCTRALIS_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_NOCTRALIS_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_NOCTRALIS_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_black_market_influences.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_HUMAN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="OrdVaug_CW"> 
+		<Variant_Of_Existing_Type>Forest_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ORDVAUG</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
+		<Galactic_Position>76.0, -824.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_ORDVAUG_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_ORDVAUG_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_ORDVAUG_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_ORDVAUG_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_ORDVAUG_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_ORDVAUG_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_ORDVAUG_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_ORDVAUG_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_ORDVAUG_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_ORDVAUG_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_HUMAN.DDS</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="ParcellusMinor_CW"> 
+		<Variant_Of_Existing_Type>Forest_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_PARCELLUSMINOR</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
+		<Galactic_Position>701.0, -388.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_PARCELLUSMINOR_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_PARCELLUSMINOR_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_PARCELLUSMINOR_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_PARCELLUSMINOR_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_PARCELLUSMINOR_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_PARCELLUSMINOR_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_PARCELLUSMINOR_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_PARCELLUSMINOR_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_PARCELLUSMINOR_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_PARCELLUSMINOR_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+   		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_black_market_influences.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Plagen_CW">
+		<Variant_Of_Existing_Type>Urban_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_PAX</Text_ID>
+		<Galactic_Model_Name>W_planet_Urban01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Urban01.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Galactic_Position>224.0, -841.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+ 		<Describe_Population>TEXT_PLANET_PLAGEN_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_PLAGEN_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_PLAGEN_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_PLAGEN_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_PLAGEN_ENCYC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_PLAGEN_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_PLAGEN_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_PLAGEN_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_PLAGEN_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_PLAGEN_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Reytha_CW">
+		<Variant_Of_Existing_Type>Temperate_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_REYTHA</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    	<Galactic_Position>713.0, -296.0, 10.0</Galactic_Position>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Special_Structures_Land>4</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_REYTHA_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_REYTHA_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_REYTHA_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_REYTHA_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_REYTHA_ENCYC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_REYTHA_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_REYTHA_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_REYTHA_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_REYTHA_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_REYTHA_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_HUMAN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Sarrish_CW">
+		<Variant_Of_Existing_Type>Desert_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_SARRISH</Text_ID>
+		<Galactic_Model_Name>W_planet_bonadan_low.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_bonadan_low.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Terrain>Desert</Terrain>
+		<Galactic_Position>-76.0, -935.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>1</Special_Structures_Space>
+		<Max_Space_Base>4</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_SARRISH_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_SARRISH_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_SARRISH_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_SARRISH_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_SARRISH_INFO_ADV</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_SARRISH_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_SARRISH_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_SARRISH_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_SARRISH_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_SARRISH_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+   		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+	</Planet>
+
+	<Planet Name="Taloraan_CW">
+		<Variant_Of_Existing_Type>GasGiant_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>11</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_TALORAAN</Text_ID>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_PLANET_TALORAAN.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_PLANET_TALORAAN.alo</GUI_Model_Name>
+		<Scale_Factor>0.9</Scale_Factor>
+		<Galactic_Position>-184.0, -715.0, 10.0</Galactic_Position>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_TALORAAN_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_TALORAAN_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_TALORAAN_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_TALORAAN_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_TALORAAN_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_TALORAAN_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_TALORAAN_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_TALORAAN_INFO_TAC</Planet_Ability_Name>
+    	<Planet_Ability_Description> TEXT_PLANET_TALORAAN_INFO_ADV </Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_TALORAAN_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_none.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_improved_weapons.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_HUMAN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="TarMorden_CW">
+		<Variant_Of_Existing_Type>Desert_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_TARMORDEN</Text_ID>
+		<Galactic_Model_Name>W_planet_bonadan_low.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_bonadan_low.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Terrain>Desert</Terrain>
+		<Galactic_Position>-38.0, -913.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>1</Special_Structures_Space>
+		<Max_Space_Base>4</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_TARMORDEN_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_TARMORDEN_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_TARMORDEN_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_TARMORDEN_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_TARMORDEN_INFO_ADV</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_TARMORDEN_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_TARMORDEN_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_TARMORDEN_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_TARMORDEN_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_TARMORDEN_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+	</Planet>
+
+	<Planet Name="TerraSool_CW">
+		<Variant_Of_Existing_Type>Temperate_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_TERRASOOL</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    	<Galactic_Position>594.0, -586.0, 10.0</Galactic_Position>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Special_Structures_Land>4</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_TERRASOOL_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_TERRASOOL_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_TERRASOOL_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_TERRASOOL_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_TERRASOOL_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_TERRASOOL_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_TERRASOOL_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_TERRASOOL_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_TERRASOOL_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_TERRASOOL_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_HUMAN.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="ThaerePrivo_CW">
+		<Variant_Of_Existing_Type>Urban_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_THAEREPRIVO</Text_ID>
+		<Galactic_Model_Name>W_planet_Urban01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Urban01.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Galactic_Position>697.0, -650.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_THAEREPRIVO_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_THAEREPRIVO_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_THAEREPRIVO_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_THAEREPRIVO_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_THAEREPRIVO_ENCYC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_THAEREPRIVO_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_THAEREPRIVO_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_THAEREPRIVO_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_THAEREPRIVO_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_THAEREPRIVO_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Thisspias_CW">
+		<Variant_Of_Existing_Type>Temperate_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_THISSPIAS</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    	<Galactic_Position>632.0, 244.0, 10.0</Galactic_Position>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Special_Structures_Land>4</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Land_Tactical_Map> Thisspias.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_THISSPIAS_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_THISSPIAS_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_THISSPIAS_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_THISSPIAS_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_THISSPIAS_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_THISSPIAS_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_THISSPIAS_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_THISSPIAS_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_THISSPIAS_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_THISSPIAS_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_THISSPIAS.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Thustra_CW">
+		<Variant_Of_Existing_Type>Temperate_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_THUSTRA</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    	<Galactic_Position>548.0, 299.0, 10.0</Galactic_Position>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Special_Structures_Land>4</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_THUSTRA_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_THUSTRA_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_THUSTRA_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_THUSTRA_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_THUSTRA_ENCYC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_THUSTRA_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_THUSTRA_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_THUSTRA_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_THUSTRA_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_THUSTRA_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_THUSTRA.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Tynna_CW">
+		<Variant_Of_Existing_Type>Temperate_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_TYNNA</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    	<Galactic_Position>534.0, -516.0, 10.0</Galactic_Position>
+		<Max_Space_Base>3</Max_Space_Base>
+		<Special_Structures_Land>4</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Land_Tactical_Map> Tynna.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_TYNNA_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_TYNNA_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_TYNNA_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_TYNNA_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_TYNNA_ENCYC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_TYNNA_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_TYNNA_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_TYNNA_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_TYNNA_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_TYNNA_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_TYNNA.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Umbara_CW">
+		<Variant_Of_Existing_Type>Temperate_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_UMBARA</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    	<Galactic_Position>757.0, -138.0, 10.0</Galactic_Position>
+		<Max_Space_Base>4</Max_Space_Base>
+		<Special_Structures_Land>4</Special_Structures_Land>
+		<Special_Structures_Space>3</Special_Structures_Space>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>Umbara_Space.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_UMBARA_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_UMBARA_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_UMBARA_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_UMBARA_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_UMBARA_INFO_TAC</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_UMBARA_INFO_ADV</Describe_Advantage>
+   		<Describe_History>TEXT_PLANET_UMBARA_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_UMBARA_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_UMBARA_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_UMBARA_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+    	<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_black_market_influences.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_UMBARA.dds</Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+	<Planet Name="Vandelhelm_CW">
+		<Variant_Of_Existing_Type>Desert_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_VANDELHELM</Text_ID>
+		<Galactic_Model_Name>W_planet_bonadan_low.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_bonadan_low.alo</GUI_Model_Name>
+        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Terrain>Desert</Terrain>
+		<Galactic_Position>130.0, -803.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>1</Special_Structures_Space>
+		<Max_Space_Base>4</Max_Space_Base>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_VANDELHELM_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_VANDELHELM_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_VANDELHELM_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_VANDELHELM_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_VANDELHELM_INFO_ADV</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_VANDELHELM_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_VANDELHELM_INFO_HIS</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_VANDELHELM_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_VANDELHELM_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text> TEXT_PLANET_VANDELHELM_ENCYC </Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
+   		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name>LOAD_HUMAN.dds</Native_Icon_Name>
+	</Planet>
+
+	<Planet Name="Zeenada_CW"> 
+		<Variant_Of_Existing_Type>Forest_Planet_Template</Variant_Of_Existing_Type>
+ 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ZEENADA</Text_ID>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
+		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
+		<Galactic_Position>497.0, -605.0, 10.0</Galactic_Position>
+		<Special_Structures_Land>5</Special_Structures_Land>
+		<Special_Structures_Space>2</Special_Structures_Space>
+		<Max_Space_Base>2</Max_Space_Base>
+		<Land_Tactical_Map> WindowsXP.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>GenericSpace.ted</Space_Tactical_Map>
+    	<Describe_Population>TEXT_PLANET_ZEENADA_INFO_POP</Describe_Population>
+    	<Describe_Wildlife>TEXT_PLANET_ZEENADA_INFO_WL</Describe_Wildlife>
+    	<Describe_Terrain>TEXT_PLANET_ZEENADA_INFO_TER</Describe_Terrain>
+    	<Describe_Weather>TEXT_PLANET_ZEENADA_INFO_WEA</Describe_Weather>
+    	<Describe_Tactical>TEXT_PLANET_ZEENADA_ENCYC_</Describe_Tactical>
+    	<Describe_Advantage>TEXT_PLANET_ZEENADA_INFO_ADV</Describe_Advantage>
+    	<Describe_History>TEXT_PLANET_ZEENADA_INFO_HIS_</Describe_History>
+    	<Planet_Ability_Name>TEXT_PLANET_ZEENADA_INFO_ADV</Planet_Ability_Name>
+    	<Planet_Ability_Description>TEXT_PLANET_ZEENADA_ENCYC</Planet_Ability_Description>
+    	<Encyclopedia_Text>TEXT_PLANET_ZEENADA_ENCYC</Encyclopedia_Text>
+    	<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+   		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    	<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    	<Planet_Ability_Icon>i_pa_improved_atat_reactors.tga</Planet_Ability_Icon>
+    	<Native_Icon_Name></Native_Icon_Name>
+		<Additional_Population_Capacity>80</Additional_Population_Capacity>
+	</Planet>
+
+</Planets>
